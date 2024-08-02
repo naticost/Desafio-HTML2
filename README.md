@@ -16,4 +16,31 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 - [Download do NVDA](https://www.nvaccess.org/download/)
 - [Wikipedia](https://pt.wikipedia.org/)
 
+## Resultado
+
+Este documento HTML foi criado para apresentar informações detalhadas sobre a série de TV "The Big Bang Theory". A estrutura do código inclui os seguintes elementos principais:
+
+1. **Cabeçalho (head):**
+   - Metadados do documento como codificação de caracteres (UTF-8), compatibilidade com o Internet Explorer, e ajuste da largura da página para diferentes dispositivos.
+   - Título da página.
+   - Link para um arquivo CSS externo para estilização.
+
+2. **Corpo (body):**
+   - **Divisão de Logo:** Contém a logo da página.
+   - **Barra de Navegação:** Uma barra simples abaixo do logo.
+   - **Conteúdo Principal:**
+     - **Barra Lateral (sidebar):** Lista de séries de TV com um link.
+     - **Seção Principal (main):** Informações detalhadas sobre "The Big Bang Theory", incluindo texto e imagens.
+     - **Tabela de Horários:** Exibe horários de transmissão da série em diferentes serviços.
+   - **Ancoragem (anchors):** Links de navegação para diferentes seções do artigo.
+   - **Rodapé (footer):** Espaço reservado para o rodapé da página (atualmente vazio).
+
+### Tecnologias Utilizadas
+
+- **HTML5:** Estruturação do conteúdo.
+- **CSS (referenciado externamente):** Estilização da página.
+- **Imagens:** Uso de imagens para logo e conteúdo visual.
+
+Este resumo abrange a estrutura básica e o propósito do documento HTML, que serve como uma página informativa sobre a série "The Big Bang Theory".
+
 
