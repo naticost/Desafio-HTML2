@@ -18,6 +18,8 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 
 ## Resultado
 
+![Resultado da tela](assets/images/resultado.png)
+
 O documento HTML foi criado para apresentar informações detalhadas sobre a série de TV "The Big Bang Theory". A estrutura do código inclui os seguintes elementos principais:
 
 1. **Cabeçalho (head):**
