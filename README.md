@@ -18,7 +18,7 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 
 ## Resultado
 
-Este documento HTML foi criado para apresentar informações detalhadas sobre a série de TV "The Big Bang Theory". A estrutura do código inclui os seguintes elementos principais:
+O documento HTML foi criado para apresentar informações detalhadas sobre a série de TV "The Big Bang Theory". A estrutura do código inclui os seguintes elementos principais:
 
 1. **Cabeçalho (head):**
    - Metadados do documento como codificação de caracteres (UTF-8), compatibilidade com o Internet Explorer, e ajuste da largura da página para diferentes dispositivos.
@@ -40,7 +40,5 @@ Este documento HTML foi criado para apresentar informações detalhadas sobre a 
 - **HTML5:** Estruturação do conteúdo.
 - **CSS (referenciado externamente):** Estilização da página.
 - **Imagens:** Uso de imagens para logo e conteúdo visual.
-
-Este resumo abrange a estrutura básica e o propósito do documento HTML, que serve como uma página informativa sobre a série "The Big Bang Theory".
 
 
